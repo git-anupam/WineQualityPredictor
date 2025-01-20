@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anupam/Documents/Repos/WineQualityPredictor/mlruns/265090376197420044/77e509e08c254a5595ca23fb8b4a937c/artifacts
+end_time: 1737372405989
+entry_point_name: ''
+experiment_id: '265090376197420044'
+lifecycle_stage: active
+run_id: 77e509e08c254a5595ca23fb8b4a937c
+run_name: rare-pug-209
+run_uuid: 77e509e08c254a5595ca23fb8b4a937c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737372400453
+status: 3
+tags: []
+user_id: anupam

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anupam/Documents/Repos/WineQualityPredictor/mlruns/265090376197420044/367e1ad230bf4d2caa611136150a373f/artifacts
+end_time: 1737372411468
+entry_point_name: ''
+experiment_id: '265090376197420044'
+lifecycle_stage: active
+run_id: 367e1ad230bf4d2caa611136150a373f
+run_name: capable-fowl-223
+run_uuid: 367e1ad230bf4d2caa611136150a373f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737372406008
+status: 3
+tags: []
+user_id: anupam

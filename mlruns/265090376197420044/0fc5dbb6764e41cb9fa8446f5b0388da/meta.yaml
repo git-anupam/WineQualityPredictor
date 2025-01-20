@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anupam/Documents/Repos/WineQualityPredictor/mlruns/265090376197420044/0fc5dbb6764e41cb9fa8446f5b0388da/artifacts
+end_time: 1737372416980
+entry_point_name: ''
+experiment_id: '265090376197420044'
+lifecycle_stage: active
+run_id: 0fc5dbb6764e41cb9fa8446f5b0388da
+run_name: exultant-squid-371
+run_uuid: 0fc5dbb6764e41cb9fa8446f5b0388da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737372411487
+status: 3
+tags: []
+user_id: anupam

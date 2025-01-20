@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1737372919017
+current_stage: None
+description: null
+last_updated_timestamp: 1737372919017
+name: wine-quality
+run_id: eb5ae11087f146b89f1b3c90e3593a32
+run_link: null
+source: file:///home/anupam/Documents/Repos/WineQualityPredictor/mlruns/265090376197420044/eb5ae11087f146b89f1b3c90e3593a32/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/anupam/Documents/Repos/WineQualityPredictor/mlruns/265090376197420044/eb5ae11087f146b89f1b3c90e3593a32/artifacts/model
+user_id: null
+version: 1

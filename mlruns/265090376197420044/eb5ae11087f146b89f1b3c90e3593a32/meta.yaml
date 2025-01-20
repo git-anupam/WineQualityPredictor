@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anupam/Documents/Repos/WineQualityPredictor/mlruns/265090376197420044/eb5ae11087f146b89f1b3c90e3593a32/artifacts
+end_time: 1737372421530
+entry_point_name: ''
+experiment_id: '265090376197420044'
+lifecycle_stage: active
+run_id: eb5ae11087f146b89f1b3c90e3593a32
+run_name: judicious-fly-64
+run_uuid: eb5ae11087f146b89f1b3c90e3593a32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737372394125
+status: 3
+tags: []
+user_id: anupam
